@@ -3,6 +3,7 @@
   text-align: center;
 }
 
-.redHeading {
-  color: red;
+.heading {
+  font-size: 2.5rem;
+  border-bottom: solid #666 0.7rem;
 }
